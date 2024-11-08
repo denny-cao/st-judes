@@ -1,0 +1,642 @@
+,image_path,actual,predicted
+0,00206969-018_Kalodimos_TIF.jpg,"{'description': (0x010E) ASCII=00206969-018, 05-23-19, staff location portraits, individuals, researchers, Bruker Ascend 1.1 GHz magnet, NMR, man, male, Babis Kalodimos PhD (Structural Biology), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Ascend, man, magazine, blue, suit, glasses, blue light, blue screen"
+1,00214636-006_TIF.jpg,"{'description': (0x010E) ASCII=00214636-006, 07-01-21, campus aerial, campus exterior, Hope garden, drone @ 188}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Hope, heart, love, garden, path, flowers, mosaic, mural, garden"
+2,00204697-010_TIF.jpg,"{'description': (0x010E) ASCII=00204697-010, 01-31-19, research instruments, laboratory, reagent bottles, glassware, cleaning, autoclave, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: glass, vial, vials, glassware, glassware containers, glassware containers,"
+3,00206966-004_Abraham_TIF.jpg,"{'description': (0x010E) ASCII=00206966-004, 05-23-19, staff - location portraits, office, Computational Biology, male, Brian Abraham, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Man, laptop, colorful screen, colorful monitor, colorful display, colorful laptop,"
+4,00213077-009_TIF.jpg,"{'description': (0x010E) ASCII=00213077-009, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, lamp posts, street lights, flags, banners, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: St. Charles Hospital, St. Charles, St. Charles Hospital, St. Charles Hospital, St"
+5,00204787-022_TIF.jpg,"{'description': (0x010E) ASCII=00204787-022, 02-05-19, research instruments, laboratory, 96 channel pipette, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Metadata keywords: glass, tube, tube, tube, tube, tube"
+6,10001677-029-V1_TIF.jpg,"{'description': (0x010E) ASCII=10-05-22, Campus exterior, i4ARC, ARC, research tower, drone, evening, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Inspiration, advanced research, building, glass, glass window, glass door, glass doorway"
+7,00201431-028_TIF.jpg,"{'description': (0x010E) ASCII=00201431-028, 08-15-18, Administration, staff - location portraits, individuals, presentation speaker, James (Jim) Downing MD (St. Jude CEO and President), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Man, suit, tie, speech, presentation, audience, stage, microphone, podium,"
+8,00202381-006_TIF.jpg,"{'description': (0x010E) ASCII=00202381-006, 09-21-18, Memphis views, aerials, drone view, downtown Memphis, cityscape, sunrise, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: City skyline, sunset, cityscape, bridge, river, water, boats, boats"
+9,00207400-092_TIF.jpg,"{'description': (0x010E) ASCII=00207400-092, 06-21-19, Board of Governors, Board Tribute Dinner,  DEC, Camille Sarrouf Jr, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Audience, speaker, microphone, podium, podium stand, podium stand with"
+10,219801-017_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website photo for Kiel Neumann’s lab.
+
+- SJR - Kiel Neumann lab at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 320, 1/80, f/4, Tue, 08-01-2023 at 10:30. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Bottle, glass, beer, alcohol, liquid, beverage, alcoholic"
+11,00216097-020-V2_TIF.jpg,"{'description': (0x010E) ASCII=00216097, campus aerial views, exterior @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Children's Research Hospital, Danby Thomas, Founder, Danny Thomas, Danny Thomas"
+12,00215616-013_TIF.jpg,"{'description': (0x010E) ASCII=00215616, Memphis Views, Mighty Lights, Memphis Bridge, Mississippi river, Have More in Memphis @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Purple bridge, purple sky, purple river, purple sunset, purple light"
+13,00214636-001-V1_TIF.jpg,"{'description': (0x010E) ASCII=00214636, campus aerial, campus exterior, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Bjc, jr children's research hospital, jr children's research hospital,"
+14,00216338-005_TIF.jpg,"{'description': (0x010E) ASCII=A media release image of Timothy (Tim) Stachowski and Marcus Fischer. 
+
+- Camera Settings: ILCE-9M2, 24mm, ISO 500, 1/125, f/4.5, Fri, 06-03-2022 at 10:44. v.04.2024 MRP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Biology, chemistry, molecular biology, molecular modeling, protein structure, protein"
+15,00216511-003-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior, I4ARC research tower, ARC, drone @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, skyscraper, glass, windows, red, white, blue, cloudy sky"
+16,00213011-002_TIF.jpg,"{'description': (0x010E) ASCII=00213011-002, 11-04-20,  campus exteriors, campus details, fall, seasons, leaves, Marlo Thomas Center, Kay Research and Care Center, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, trees, sky, building facade, building exterior, building facade, building, building"
+17,00211922-107_TIF.jpg,"{'description': (0x010E) ASCII=00211922-107, 04-06-20, events, staff - location, COVID-19, coronavirus, Unsung Heroes, Animal Resource Center, ARC, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Apron, gloves, blue, blue gloves, blue glove, blue glove"
+18,00216511-028-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior, aerial views @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Hospital, city, hospital, hospital building, hospital, hospital, hospital, hospital, hospital, hospital"
+19,00204680-015_TIF.jpg,"{'description': (0x010E) ASCII=00204680-015, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Biological, lab, microscopic, microscopes, microscopic organisms, micro"
+20,00213077-011_TIF.jpg,"{'description': (0x010E) ASCII=00213077-011, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, garden, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Trees, water fountain, statue, flowers, greenery, brick, park, garden"
+21,00213011-013_TIF.jpg,"{'description': (0x010E) ASCII=00213011-013, 11-04-20,  campus exteriors, campus details, fall, seasons, leaves, Kay Research and Care Center, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Research and Cure Center, building, building sign, building name, building signage, building sign"
+22,00204680-005_TIF.jpg,"{'description': (0x010E) ASCII=00204680-005, 01-29-19, research instruments, bottles, Macromolecular Synthesis, Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: protein, protein powder, protein supplement, protein powder for athletes, protein powder"
+23,00212430-018_TIF.jpg,"{'description': (0x010E) ASCII=00212430-018, 08-11-20, staff - groups, staff - location portraits, Scientific Report, Radiation Oncology, male, man, Thomas Merchant DO, PhD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Thomas, MD, FACR, FACR, FACR, FACR,"
+24,00204787-015_TIF.jpg,"{'description': (0x010E) ASCII=00204787-015, 02-05-19, research instruments, laboratory, 96 channel pipette, 96-well plates, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: High-quality metadata keywords for the image include:
+
+1. DNA
+2. DNA sequ"
+25,00204754-015_TIF.jpg,"{'description': (0x010E) ASCII=00204754-015, 01-30-19, research instruments, Affeymetrix, DNA microarrays, GeneChip arrays, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: High-quality metadata keywords for the image include ""soda machine,"" ""soda dispenser,"""
+26,00211922-121_TIF.jpg,"{'description': (0x010E) ASCII=00211922-121, 04-06-20, events, staff - location, COVID-19, coronavirus, Unsung Heroes, Office of Legal Services, LaResa Young, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Keywords: woman, computer, monitor, laptop, keyboard, mouse, coffee, cup, des"
+27,00204680-023_TIF.jpg,"{'description': (0x010E) ASCII=00204680-023, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Blue, glass, vials, labeled, labeled, labeled, labeled,"
+28,00216097-005_TIF.jpg,"{'description': (0x010E) ASCII=00216097, campus aerial views, exterior @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: City, buildings, sky, cityscape, cityscape, city, cityscape,"
+29,00214999-018_TIF.jpg,"{'description': (0x010E) ASCII=00214999-018, 10-21-21, Memphis views, downtown, city, trolly, Main Street, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Main street trolley, green bus, street, traffic light, traffic lights, traffic signal,"
+30,00209202-021_Capers_TIF.jpg,"{'description': (0x010E) ASCII=00209202-021, 09-04-19, events, Blueprint Series, MTC auditorium, Shari Capers (Strategic Planning), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Speaker, microphone, audience, presentation, speaker notes, presentation notes, speaker's name"
+31,00211922-076_TIF.jpg,"{'description': (0x010E) ASCII=00211922-076, 04-06-20, events, staff - location, COVID-19, coronavirus, Unsung Heroes, Environmental Services, Facilities Operations and Maintenance, nitrogen, Tony Mays, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Hydrogen, nitrogen, liquid nitrogen, liquid helium, liquid helium"
+32,00204666-113_TIF.jpg,"{'description': (0x010E) ASCII=00204666-113, 01-29-19, research instruments, science, laboratory, genome sequencing slides, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Color, colorful, colorfulness, colorfulness, colorfulness, colorfulness"
+33,203901-025_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from Steve Varga’s lab. Stacey Hartwig
+
+- SJR - Steven (Steve) Varga lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 35mm, ISO 400, 1/500, f/1.8, Wed, 06-21-2023 at 14:48. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Paper, computer, mouse, mouse pad, mouse, mouse pad, mouse, mouse, mouse"
+34,00212017-011_TIF.jpg,"{'description': (0x010E) ASCII=00212017-011, 05-15-20, staff - location, events, Coffee Break, COVID, COVID-19, pandemic, administration, Spiritual Care Services, Mark Brown, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Man, suit, jacket, tie, glasses, hand, arm, elbow, w"
+35,00204697-011_TIF.jpg,"{'description': (0x010E) ASCII=00204697-011, 01-31-19, research instruments, laboratory, reagent bottles, glassware,  @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Metadata keywords: water, bottles, glass, containers, containers, bottle, bottles"
+36,00202524-010_TIF.jpg,"{'description': (0x010E) ASCII=00202524-010, 10-03-18, campus exteriors, Longinotti Building, Barry Building, St Jude North Building, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, trees, sky, building, leaves, building, trees, sky, building, trees,"
+37,00204680-028_TIF.jpg,"{'description': (0x010E) ASCII=00204680-028, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Metadata keywords: blue, blue light, blue lighting, blue lighting equipment, blue light"
+38,00204666-127_TIF.jpg,"{'description': (0x010E) ASCII=00204666-127, 01-29-19, research instruments, science, laboratory, genome sequencing slides, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Light, lighting, color, colorful, colorful lights, colorful glow sticks"
+39,353104-001-V1_TIF.jpg,"{'description': (0x010E) ASCII=Hope Garden
+
+-  at Hope Garden.
+
+- Camera Settings: L1D-20c, 28mm, ISO 100, 1/800, f/6.3, Wed, 01-31-2024 at 12:11. v.12.01.23 @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Hope, path, bench, heart, grass, flowers, sculpture, garden, children,"
+40,00183960-067_wm_TIF.jpg,"{'description': (0x010E) ASCII=00183960-067, 03-17-16, research procedures, laboratory, lab, pipet, pipette, pipetting, drop, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Biosketch, Biosketch, Biosketch, Biosketch,"
+41,195701-067_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. Jon (Patrick) Seiler
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 12mm, ISO 200, 1/6400, f/5.6, Mon, 05-22-2023 at 15:55. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Beach, sun, sand, rocks, sunlight, shadows, sun glasses, sun protection"
+42,10001677-044-V1_TIF.jpg,"{'description': (0x010E) ASCII=10-05-22, Campus exterior, i4ARC, ARC, research tower, drone, evening, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Inspiration, advanced research, building, glass, light, office, sign, signage,"
+43,135201-011-V3_TIF.jpg,"{'description': (0x010E) ASCII=Campus exterior drone photos, evening, stock, Inspiration4 Advanced Research Center @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, lights, trees, trees, lights, lights, lights, lights, lights, lights,"
+44,00213077-013_TIF.jpg,"{'description': (0x010E) ASCII=00213077-013, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: St joseph's children's research hospital, st joseph's children'"
+45,00204589-039_TIF.jpg,"{'description': (0x010E) ASCII=00204589-039, 01-18-19, research procedures, vials, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Lab, lab equipment, scientific equipment, scientific instruments, scientific research, scientific study, scientific experiment,"
+46,00206969-006_Kalodimos_TIF.jpg,"{'description': (0x010E) ASCII=00206969-006, 05-23-19, staff location portraits, individuals, researchers, Bruker Ascend 1.1 GHz magnet, NMR, man, male, Babis Kalodimos PhD (Structural Biology), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Newsletter, magazine, man, blue, light, blue, light blue, light blue, light"
+47,00204903-005_TIF.jpg,"{'description': (0x010E) ASCII=00204903-005, 02-14-19, research instruments, science, laboratory, 96-well plate, vials, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Green, green light, green screen, green screened, green screened device, green screened"
+48,246004-016_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from the Developmental Neurobiology - Neurocytometry Core.
+
+- SJR - Developmental Neurobiology - Neurocytometry Core at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 500, 1/320, f/2.8, Thu, 09-07-2023 at 10:33. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Keywords: plastic, glass, tubes, tubes, tubes, tubes,"
+49,309802-021_TIF.jpg,"{'description': (0x010E) ASCII=A St Jude Research Website and Pharmacy and Pharmaceutical Sciences annual report photo in the Pharmacotyping Resource lab. Landon Choi
+
+- PPS Report - Pharmacotyping Resource at CCC, Chili's Care Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 800, 1/125, f/4.5, Fri, 11-17-2023 at 11:42. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Biology, microscopy, microbiology, cell biology, genetics, protein"
+50,00213077-003_TIF.jpg,"{'description': (0x010E) ASCII=00213077-003, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, Donald P Pinkel MD Research Tower, Danny Thomas Research Center, entrance, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, trees, leaves, building entrance, glass, building entrance, glass door, glass doorway"
+51,00212001-011_TIF.jpg,"{'description': (0x010E) ASCII=00212001-011, 04-24-20, staff - location, events, Coffee Break, COVID, COVID-19, pandemic, administration, (LR) John Leech, James Downing MD (President and CEO), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Businessman, suit, tie, glasses, suit jacket, suit pants, suit jack"
+52,238502-019_TIF.jpg,"{'description': (0x010E) ASCII=A St Jude Research website and Investigator Insights photo of Manoo Bhakta and Nickhill Bhakta.
+
+- SJR - Investigator Insights - Manoo Bhakta, Nickhill Bhakta at Tamer-Rashid Building.
+
+- Camera Settings: ILCE-9M2, 133mm, ISO 400, 1/320, f/4, Fri, 08-18-2023 at 15:29. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, trees, people, walking, sidewalk, concrete, concrete pillars, concrete pillars"
+53,235506-083_TIF.jpg,"{'description': (0x010E) ASCII=An image from the Structural Biology booklet of the X-ray Crystallography Center.
+
+- Structural Biology Booklet - X-ray Crystallography Center at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 1000, 1/160, f/4, Fri, 09-08-2023 at 10:26. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Machine, machine tool, machine, machine tooling, machine tool, machine tooling, machine tool"
+54,00207400-088_TIF.jpg,"{'description': (0x010E) ASCII=00207400-088, 06-21-19, Board of Governors, DEC, James Downing MD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Man, microphone, podium, podium stand, podium stand with microphone, pod"
+55,00174912-082_wm_TIF.jpg,"{'description': (0x010E) ASCII=00174912-082, 12-06-14, sports, running, runners, walk, walkers, shoes, logo, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Shoes, people, sign, drawing, drawing of a person, drawing of a child, drawing"
+56,00207528-008_TIF.jpg,"{'description': (0x010E) ASCII=00207528-008, 07-10-19, staff - location portraits, researchers, two-shot, working, lab, mentors, Immunology, (LR) Ben Youngblood PhD, Shannon Boi PhD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Biology, lab, microbiology, microscopy, microscopes, microorganisms"
+57,00204666-111_TIF.jpg,"{'description': (0x010E) ASCII=00204666-111, 01-29-19, research instruments, science, laboratory, genome sequencing slides, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Colorful, colorful, colorful, colorful, colorful, colorful, colorful"
+58,00211211-177_Allen_TIF.jpg,"{'description': (0x010E) ASCII=00211211-177, 02-19-20, staff - location portraits, triage room, Nursing, male, Stephen Allen, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Man, medical equipment, medical device, medical supplies, medical equipment, medical device, medical supplies,"
+59,00206969-003_Kalodimos_TIF.jpg,"{'description': (0x010E) ASCII=00206969-003, 05-23-19, staff location portraits, individuals, researchers, smiles, smiling, Bruker Ascend 1.1 GHz magnet, NMR, man, male, Babis Kalodimos PhD (Structural Biology), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Ascend, man, smiling, blue, light, room, suit, suit jacket"
+60,150003-003-V1_TIF.jpg,"{'description': (0x010E) ASCII=Memphis Views, Have More in Memphis, Stock, Mighty Lights, Memphis Bridge, HPV colors @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Bridge, city, cityscape, night, lights, reflection, water, sky, bridge over"
+61,10002670-124-V1_TIF.jpg,"{'description': (0x010E) ASCII=10002670, Holiday Decorations, Christmas, Jude Lights, Stock, Campus @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Christmas lights, Santa, reindeer, Christmas tree, decorations, lights, tree, building"
+62,00211245-159_cmp_TIF.jpg,"{'description': (0x010E) ASCII=00211245-159, 03-02-20, campus interiors, Bone Marrow Transplant, BMT, inpatient room, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Purple, hospital, room, bed, chair, nurse, nurse's station,"
+63,10002581-136-V1_TIF.jpg,"{'description': (0x010E) ASCII=10002581, 11-16-22, Memphis views, Nature, Overton Park, Have More in Memphis, walking trail @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Sunlight, leaves, trees, green, sculpture, sculpture of trees, sculpture of"
+64,216202-005_TIF.jpg,"{'description': (0x010E) ASCII=New Daisy Theater
+- Camera Settings: ILCE-9M2, 15mm, ISO 160, 1/30, f/10, Fri, 06-23-2023 at 14:21. @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: New daisy, theater, lights, stage, curtains, lights, stage lights,"
+65,10002190-031_JPG.jpg,"{'description': (0x010E) ASCII=10002190, 11-01-22, people hospital staff, campus interior, Proton Therapy Center, Radiation Oncology, The Memphis Museum of Science and History, MoSH, @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Green laser, laser printer, laser printers, laser printers on a table"
+66,00201051-092_TIF.jpg,"{'description': (0x010E) ASCII=00201051-092, 06-24-18, clinical procedures, location portraits, Eye Clinic, male, boy, Kaden Haynes, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Eye glasses, eye, eye glasses, eyewear, eyewear, eye"
+67,00204697-012_TIF.jpg,"{'description': (0x010E) ASCII=00204697-012, 01-31-19, research instruments, laboratory, reagent bottles, glassware, cleaning, autoclave,  @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Bottles, water, bottle, glass, container, container, bottle, bottle"
+68,195701-128_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. 
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 24mm, ISO 250, 1/640, f/9, Tue, 05-23-2023 at 10:11. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Keywords: blue gloves, gloves, glove, glove, glove, glo"
+69,00204787-016_TIF.jpg,"{'description': (0x010E) ASCII=00204787-016, 02-05-19, research instruments, laboratory, 96 channel pipette, 96-well plates, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Metadata keywords: DNA, DNA sequencing, sequencing, sequencing machine, sequencing machine"
+70,00199428-025_TIF.jpg,"{'description': (0x010E) ASCII=00199428-025, 05-03-18, research instruments, mirrors, lasers, Flow Cytometry, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Laser, light, electronics, circuit, wires, wiring, circuit board, electron"
+71,203901-026_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from Steve Varga’s lab.
+
+- SJR - Steven (Steve) Varga lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 400, 1/800, f/2.8, Wed, 06-21-2023 at 15:00. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Keywords: colorful, gaming, controller, joystick, game controller, gaming"
+72,00210352-040_TIF.jpg,"{'description': (0x010E) ASCII=00210352-040, 12-20-19, events, staff - location, reception, Global Pediatric Medicine, Carlos Rodriguez Galindo MD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Man, woman, baby, baby carriage, microphone, microphone stand, microphone, micro"
+73,00216511-036-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior,I4ARC research tower, ARC @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Inspiration, Advanced Research, Research, Building, Windows, Glass, Sign, Signage"
+74,00212010-038_TIF.jpg,"{'description': (0x010E) ASCII=00212010-038, 05-07-20, events, COVID, COVID-19, coronavirus, pandemic, social distancing, campus exteriors, Dominos Event Center, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Brick building, brick building, brick building, brick building, brick building, brick building, brick"
+75,00207603-009_TIF.jpg,"{'description': (0x010E) ASCII=00207603-014, 07-12-19, campus interiors, Diagnostic Imaging, lobby, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: The room is designed for relaxation and socializing."
+76,00211332-004_TIF.jpg,"{'description': (0x010E) ASCII=00211332-004, 03-11-20, events, staff - location, Town Hall, COVID-19, James Downing MD (President and CEO), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: The image depicts a large auditorium filled with people, with a man standing in front"
+77,00213124-010_TIF.jpg,"{'description': (0x010E) ASCII=00213124, campus aerial, exterior, drone @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: St joseph's hospital, st joseph's young research hospital, st j"
+78,10000715-041_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Puneet Bagga’s lab. Esther Pavao
+
+- SJR - Puneet Bagga lab at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 500, 1/20, f/2, Thu, 08-04-2022 at 14:30. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: High-quality metadata keywords for the image include ""woman"", ""scientist"", ""l"
+79,00216511-010-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior, I4ARC research tower, ARC, drone @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: 1971, 1972, 1973, 1"
+80,00207528-019_TIF.jpg,"{'description': (0x010E) ASCII=00207528-019, 07-10-19, staff - location portraits, researchers, individuals, working, lab, Immunology, female, Shannon Boi PhD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Woman, lab, glasses, glass, glasses, glasses, glasses, glasses"
+81,00206948-020_TIF.jpg,"{'description': (0x010E) ASCII=000206948-020, 05-22-19, staff - location portraits, two-shot, MTC, break area, lounge, talking, collaboration, Scientific Report, male, female, Clinical Trials Administration, Affiliate Program Office, (LR) Victor Santana MD, Carolyn Russo MD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Smiling woman, glasses, blue shirt, blue floral print dress, blue floral"
+82,00216511-027-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior, aerial views @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: High-quality metadata keywords for the image include: city, building, hospital, church, park,"
+83,00213124-054_TIF.jpg,"{'description': (0x010E) ASCII=00213124, campus aerial, exterior, drone @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: St. jude children's research hospital, johns hopkins university, johns"
+84,195701-066_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. Pamela McKenzie, Jennifer DeBeauchamp-Newman, Jon (Patrick) Seiler
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 12mm, ISO 200, 1/640, f/5.6, Mon, 05-22-2023 at 15:54. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Face masks, face shields, face coverings, masks, gloves, glove"
+85,10002065-001-V2_TIF.jpg,"{'description': (0x010E) ASCII=10002065, 10-20-22, Campus exterior, i4ARC, ARC, research tower, drone, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, lights, windows, trees, trees, lights, lights, lights, lights, lights,"
+86,00207610-013_TIF.jpg,"{'description': (0x010E) ASCII=00207610-013, 07-16-19, research procedures, lab, plates, mentor, POE, (LR) Jun Yang, Victoria Jones, @ 188}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Man, woman, lab, science, research, experiment, microscopy, microscopes,"
+87,00209080-009_TIF.jpg,"{'description': (0x010E) ASCII=00209080-009, 08-26-19, staff groups, location portraits, colleagues, collaborating, collaboration, researchers, white lab coats, laboratory background, (LR) Thirumala-Devi Kanneganti PhD (Immunology), Kesav Sannula PhD (Immunology), Parimal Parimal Samir PhD (Immunology), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Photo of three doctors in white lab coats, each holding a piece of paper, surrounded"
+88,00211332-018_TIF.jpg,"{'description': (0x010E) ASCII=00211332-018, 03-11-20, events, staff - location, Town Hall, COVID-19, Ellis Neufeld MD PhD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: St. Joseph's Children's Research Hospital, speaker, children, children's hospital,"
+89,00204666-119_TIF.jpg,"{'description': (0x010E) ASCII=00204666-119, 01-29-19, research instruments, science, laboratory, genome sequencing slides, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Colorful, rainbow, glasses, colorful glasses, rainbow glasses, color"
+90,10001677-040_TIF.jpg,"{'description': (0x010E) ASCII=10-05-22, Campus exterior, i4ARC, ARC, research tower, drone, evening, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Inspire Research Center, building, night, lights, trees, trees in front of building,"
+91,00213123-011_v2_TIF.jpg,"{'description': (0x010E) ASCII=00213123-11, campus aerial, campus exterior, aerial views, drone @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: City, sky, buildings, traffic, truck, trees, cars, bridge, traffic lights,"
+92,00213077-012_TIF.jpg,"{'description': (0x010E) ASCII=00213077-012, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, garden, @ 188}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Trees, leaves, flowers, shrubs, flowers, leaves, leaves, leaves, leaves,"
+93,00213077-017_TIF.jpg,"{'description': (0x010E) ASCII=00213077-017, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, Richard C Shadyac ALSAC Tower, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: St jude children's hospital, red leaves, trees, building, children's hospital,"
+94,00154810-112_wm_TIF.jpg,"{'description': (0x010E) ASCII=00154810-112, 04-10-12, Memphis views, outdoors, architecture, bridge, (LR) Memphis-Arkansas Bridge, Frisco Bridge, Harahan Bridge, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Bridge, bridge over water, bridge over river, bridge over canal, bridge over river, bridge over"
+95,00206983-014_TIF.jpg,"{'description': (0x010E) ASCII=00206983-014, 05-24-19, staff - groups, lab, Cell and Molecular Biology, (LR) Klementina Fon Tacer PhD, Ryan Potts PhD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: lab, scientist, research, medical, medical research, medical lab, medical researcher, medical"
+96,229503-003_JPG.jpg,"{'description': (0x010E) ASCII=photo of ALSAC Gift Shop.
+
+- Camera Settings: ILCE-9M2, 24mm, ISO 200, 1/250, f/7.1, Tue, 11-14-2023 at 10:39. v.08.15.23 @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: The image features a large building with a red roof, a red awning, and a red sign"
+97,00216097-013-V2_TIF#01.jpg,"{'description': (0x010E) ASCII=00216097, campus aerial views, exterior @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: City, buildings, parking lot, parking garage, parking lot, parking gar"
+98,00202524-020_TIF.jpg,"{'description': (0x010E) ASCII=00202524-020, 10-03-18, campus exteriors, Longinotti Building, Barry Building, St Jude North Building, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, trees, sky, sun, building, trees, sky, building, trees, sky,"
+99,00204798-011_TIF.jpg,"{'description': (0x010E) ASCII=00204798-011, 02-07-19, clinical procedures, Infusion Pump part, @ 188}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Blood pressure cuff, blood pressure cuffs, blood pressure cuffs, blood pressure cu"
+100,10001028-047_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Christopher Tinkle’s lab. Liying Fan
+
+- SJR - Christopher Tinkle lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 320, 1/500, f/2, Tue, 08-23-2022 at 10:55. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Yellow lab coat, blue gloves, blue and white lab coat, blue and white lab coat"
+101,353104-004_TIF.jpg,"{'description': (0x010E) ASCII=Hope Garden
+
+-  at Hope Garden.
+
+- Camera Settings: L1D-20c, 28mm, ISO 100, 1/1000, f/7.1, Wed, 01-31-2024 at 12:14. v.12.01.23 @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: We love kids, we love children, we love the park, we love the park, we"
+102,00198073-006_TIF.jpg,"{'description': (0x010E) ASCII=00198073-006, 02-23-18, campus sculpture, interiors, details, DNA structure, art, lobby, GMP, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Light, ceiling, chandelier, hanging, suspended, metal, wire,"
+103,289003-003_JPG.jpg,"{'description': (0x010E) ASCII=photo of Dr. James R. Downing at MTC, Marlo Thomas Center Board Room. 
+
+- Camera Settings: ILCE-7M4, 50mm, ISO 200, 1/25, f/2.8, Fri, 10-06-2023 at 09:34. v.08.15.23 @ 248}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Business suit, suit jacket, gray suit, gray tie, gray suit jacket, gray suit"
+104,327903-015_TIF.jpg,"{'description': (0x010E) ASCII=Campus Exterior 
+
+-  at .
+
+- Camera Settings: NIKON Z 9, 24mm, ISO 250, 1/60, f/2.8, Wed, 09-20-2023 at 05:56. v.12.01.23 @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Children, sculpture, building, dna, DNA, DNA molecule, DNA strands"
+105,00204680-025_TIF.jpg,"{'description': (0x010E) ASCII=00204680-025, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Blue, blue light, blue lighting, blue light, blue lighting, blue light, blue"
+106,00202806-004_TIF.jpg,"{'description': (0x010E) ASCII=00202806-004, 10-15-18, campus details, campus exteriors, holidays, Halloween, decorations, PCC, Patient Care Center, St. Jude Thaddeus statue, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Halloween, statue, statue of a man, statue of a woman, statue of a man"
+107,00207635-002_TIF.jpg,"{'description': (0x010E) ASCII=00207635-002, 07-18-19, staff groups, location portraits, colleagues, collaborating, collaboration, (LR) Akinori Okada (Radiation Oncology), Jackie Faught (Radiation Oncology), Andrew Saunders (Radiation Oncology), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: MRI, patient, doctor, patient, medical, scan, x-ray, radiology,"
+108,00214366-424-V1_TIF.jpg,"{'description': (0x010E) ASCII=00214366, 06-24-21, ARC, Advanced Research Center, interiors, conference room, cafe, atrium, lounge, mother’s room, entrance, handicap, exterior patio @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Apartment, balcony, patio, outdoor, patio furniture, outdoor"
+109,00204796-004_TIF.jpg,"{'description': (0x010E) ASCII=00204796-004, 02-06-19, research instruments, fluorescent, fluorescence, slides, Applied Spectral Imaging Cytogenetic Scanning system, Zeiss Imager Z2 upright microscope, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Keywords: microscope, green light, green screen, green lighting, green illum"
+110,00208305-013_TIF.jpg,"{'description': (0x010E) ASCII=00208305-013, 07-22-19, staff - groups, laboratory, POEs, student, Oncololgy, African-American, female, male, (LR) Esther Obeng MD, PhD, Reid Palumbo, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Smiling woman and man in lab coats, both wearing glasses, examining a pur"
+111,00209080-004_TIF.jpg,"{'description': (0x010E) ASCII=00209080-004, 08-26-19, staff groups, location portraits, colleagues, collaborating, collaboration, researchers, (LR) Thirumala-Devi Kanneganti PhD (Immunology), Kesav Sannula PhD (Immunology), Parimal Parimal Samir PhD (Immunology), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Man, woman, man, man, man, man, man, man, man, man,"
+112,235506-096_TIF.jpg,"{'description': (0x010E) ASCII=An image from the Structural Biology booklet of the X-ray Crystallography Center.
+
+- Structural Biology Booklet - X-ray Crystallography Center at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 1000, 1/160, f/5, Fri, 09-08-2023 at 11:03. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: The image shows a close-up view of a series of small, round, clear plastic containers"
+113,00212014-032_TIF.jpg,"{'description': (0x010E) ASCII=00212014-032, 05-12-20, events, staff - location, COVID, COVID-19, pandemic, coronavirus, social distancing, Childrens GMP, lab, tests, VTM, viral transport media, Unsung Heroes, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Metadata keywords: blood, tube, glass, glass tube, glass tube holder,"
+114,135201-021-V4_TIF.jpg,"{'description': (0x010E) ASCII=Campus exterior drone photos, evening, Bass Pro Shops at Pyramid,stock @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Nighttime, blue, light, building, bridge, lights, night, city, sky, water"
+115,00213077-020_TIF.jpg,"{'description': (0x010E) ASCII=00213077-020, 11-09-20, campus exteriors, campus details, fall, seasons, reflections, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Energy, Center, Building, Windows, Windows, Windows, Windows, Windows, Windows, Windows,"
+116,00216087-057-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216087, Memphis views, Have More in Memphis, Central BBQ @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Tiger, sign, street, restaurant, blue, blue and white, blue and white tiger"
+117,00204903-010_TIF.jpg,"{'description': (0x010E) ASCII=00204903-010, 02-14-19, research instruments, science, laboratory, 96-well plate, vials, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Image, microscopy, microscopes, microscopic, microscopic images, micro"
+118,00202524-038_TIF.jpg,"{'description': (0x010E) ASCII=00202524-038, 10-03-18, campus exteriors, ALSAC Headquarters Addition, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, sky, light, windows, glass, pink, building, light, windows, glass"
+119,00214648-005_TIF.jpg,"{'description': (0x010E) ASCII=00214648, IARC research tower, ARC @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, sun, tree, sky, city, building, tree, building, tree, building,"
+120,00213123-001_TIF.jpg,"{'description': (0x010E) ASCII=00213123, campus aerial, exterior, drone, Rainbow @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Rainbow, hospital, rainbow hospital, rainbow hospital building, rainbow hospital building, rain"
+121,248302-009_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from Tommaso Cupido’s lab. 
+
+- SJR - Tommaso Cupido lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 1250, 1/1250, f/1.8, Thu, 09-14-2023 at 12:51. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: High-quality metadata keywords for the image include ""blue circle,"" ""science,"" ""scient"
+122,00216408-007_TIF.jpg,"{'description': (0x010E) ASCII=An image from the 2022 Scientific Annual Report of Yichao Li and Yong Cheng. 
+
+- SCFY22 - SAR - Yichao Li, Yong Cheng at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 85mm, ISO 400, 1/160, f/2, Wed, 06-08-2022 at 13:52. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Data analysis, data visualization, data management, data mining, data analysis tools, data visual"
+123,00201051-217_TIF.jpg,"{'description': (0x010E) ASCII=00201051-217, 06-24-18, children location portraits, individuals, outside, outdoors, teddy bear, Kaden Haynes, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Bear, teddy bear, stuffed animal, child, toy, stuffed animal, child"
+124,00216097-013-V2_TIF.jpg,"{'description': (0x010E) ASCII=00216097-013, Campus Aerial views, drone @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: City, buildings, parking lot, parking garage, parking lot, parking gar"
+125,00204680-002_TIF.jpg,"{'description': (0x010E) ASCII=00204680-002, 01-29-19, research instruments, bottles, Macromolecular Synthesis, Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: A, A, A, A, A, A, A, A, A, A,"
+126,10000715-037_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Puneet Bagga’s lab. Esther Pavao
+
+- SJR - Puneet Bagga lab at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 1600, 1/50, f/4, Thu, 08-04-2022 at 14:28. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Cell biology, microscopy, microscope, microscope image, microscope"
+127,144801-111_TIF.jpg,{'description': (0x010E) ASCII=Mural Painting on Broad Ave @ 224},"USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Memphis, graffiti, street art, colorful, cityscape, musician"
+128,00194570-013_TIF.jpg,"{'description': (0x010E) ASCII=00194570-013, 08-03-17, campus aerials, campus exteriors, drone aerial image, meditation garden, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Hope, garden, sculpture, flowers, gardening, garden, sculpture, hope, garden"
+129,248302-012_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from Tommaso Cupido’s lab. Tommaso Cupido
+
+- SJR - Tommaso Cupido lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 640, 1/400, f/1.8, Thu, 09-14-2023 at 12:53. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Chemistry, lab, drawing, blue, blue pen, blue marker, blue marker pen, blue"
+130,00212017-014_TIF.jpg,"{'description': (0x010E) ASCII=00212017-014, 05-15-20, staff - location, events, Coffee Break, COVID, COVID-19, pandemic, administration, James Downing MD (President and CEO), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Businessman, suit, tie, glasses, suit jacket, suitcase, suitcase,"
+131,00204680-009_TIF.jpg,"{'description': (0x010E) ASCII=00204680-009, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Blue, blue light, blue lighting, blue light, blue lighting, blue light, blue"
+132,00209213-005_Ridsdale_TIF.jpg,"{'description': (0x010E) ASCII=00209213-005, 09-06-19, staff location portraits, individuals, office background, man, male, Daniel Moreira Ridsdale MD (Global Pediatric Medicine), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: MRI, brain, scan, computer, paper, man, glasses, blue shirt,"
+133,00202524-015_TIF.jpg,"{'description': (0x010E) ASCII=00202524-015, 10-03-18, campus exteriors, Danny Thomas ALSAC Pavilion, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Church, mosque, building, city, skyline, trees, greenery, architecture, gold"
+134,00195485-003_TIF.jpg,"{'description': (0x010E) ASCII=00195485-003, 09-30-17, Memphis views, bridges, Harahan Bridge, Frisco Bridge, Big River Crossing, Mississippi River, dusk, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Bridge, river, sunset, trees, bridge lights, bridge lights, bridge lights, bridge lights"
+135,00204680-019_TIF.jpg,"{'description': (0x010E) ASCII=00204680-019, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Blue, labeled, blue, blue, blue, blue, blue, blue, blue, blue"
+136,00205747-012_TIF.jpg,"{'description': (0x010E) ASCII=00205747-012, 03-26-19,research instruments, hands, working, controller board cryoEM, microscope, microscopy, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Keywords: monitor, computer, keyboard, light, lighting, light source, lighting fi"
+137,00214636-002_TIF.jpg,"{'description': (0x010E) ASCII=00214636, campus aerial, campus exterior, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: St joseph's children's hospital, st joseph's children's"
+138,00216097-014-V2_TIF.jpg,"{'description': (0x010E) ASCII=00216097, campus aerial views, exterior @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: High-quality metadata keywords for the aerial view of a city with tall buildings, including: city"
+139,00198151-011_TIF.jpg,"{'description': (0x010E) ASCII=00198151-011, 02-27-18, campus sculpture, interiors, details, DNA structure, art, lobby, GMP, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Colorful lights, lighting, light fixtures, lighting fixtures, lighting"
+140,00213077-014_TIF.jpg,"{'description': (0x010E) ASCII=00213077-014, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, St Jude statue, Richard C Shadyac ALSAC Tower, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: statue, statue of man, statue of man with bird, statue of man with bird on head,"
+141,10002670-121_TIF.jpg,"{'description': (0x010E) ASCII=10002670, Holiday Decorations, Christmas, Jude Lights, Stock, Campus @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Christmas lights, street, car, traffic, city, lights, decorations, holiday, decor"
+142,10002065-010_TIF.jpg,"{'description': (0x010E) ASCII=10002065, 10-20-22, Campus exterior, i4ARC, ARC, research tower, drone, Inspiration Advanced Research Center @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, night, lights, building, lights, building, lights, building, lights, building,"
+143,00216097-005-V2_TIF.jpg,"{'description': (0x010E) ASCII=00216097, Campus Aerial views @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: City, buildings, sky, cityscape, cityscape, city, cityscape,"
+144,00204767-017_TIF.jpg,"{'description': (0x010E) ASCII=00204767-017, 01-31-19, research procedures, pipet, pipette, laboratory background, Youngdae Gwon PhD (Cell and Molecular Biology), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Biology, DNA, DNA sequencing, lab, lab equipment, lab coat, lab notebook"
+145,135201-010-V3_TIF.jpg,"{'description': (0x010E) ASCII=ALSAC Tamer Rashid Building, Campus exterior drone photos, evening, stock @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: We love building, we love building, we love building, we love building, we love building,"
+146,130602-010-V1_TIF.jpg,"{'description': (0x010E) ASCII=Campus exterior, IARC Research tower @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Advanced research center, inspiration, research, building, glass, red, stone, stone steps,"
+147,00214663-012-V1_TIF.jpg,"{'description': (0x010E) ASCII=00214648, IARC research tower, ARC @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, glass, windows, office, building, glass, windows, office, building, glass,"
+148,00206948-018_TIF.jpg,"{'description': (0x010E) ASCII=00206948-018, 05-22-19, staff - location portraits, two-shot, MTC, break area, lounge, talking, collaboration, Scientific Report, male, female, Clinical Trials Administration, Affiliate Program Office, (LR) Victor Santana MD, Carolyn Russo MD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: The image shows two men sitting at a table, engaged in a conversation. They are surrounded by ch"
+149,00211211-335_Green_TIF.jpg,"{'description': (0x010E) ASCII=00211211-335, 02-19-20, staff - location portraits, patient room, Nursing, female, African-American, Charmayne Green, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Smiling woman in a hospital room, smiling, wearing a pink shirt, and"
+150,00204787-027_TIF.jpg,"{'description': (0x010E) ASCII=00204787-027, 02-05-19, campus interiors, Biomedical Library, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Computer, desk, chair, monitor, keyboard, laptop, bookshelf, lamp, clock"
+151,00208436-029_TIF.jpg,"{'description': (0x010E) ASCII=00208436-029, 07-31-19, staff - location portraits, two-shot, Hematology, African-American, female, (LR) Jane Hankins MD, Shelia Anderson, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: smiling, woman, woman, smiling, woman, smiling, woman, smiling,"
+152,00216511-023-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus aerial, exterior, drone @ 188}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: City, sky, buildings, parking lot, trees, parking, parking lot, par"
+153,00047369-005_color_TIF.jpg,"{'description': (0x010E) ASCII=00047369-005, 08-01-97, research procedures, research, close, up, scientific, culture, plate, plates, dish, technical, colorful, red, black @ 176}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Keywords: biology, microscopy, cell, growth, growth factor, growth factor re"
+154,00208436-039_TIF.jpg,"{'description': (0x010E) ASCII=00208436-039, 07-31-19, staff - location portraits, two-shot, Hematology, African-American, female, (LR) Shelia Anderson, Jane Hankins MD, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Banner, sign, door, woman, handbag, book, patient, hospital, medical,"
+155,00214648-006_TIF.jpg,"{'description': (0x010E) ASCII=00214648, IARC research tower, ARC @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, skyscraper, glass, windows, sunlight, sky, cloud, blue sky"
+156,10002065-005-V2_TIF.jpg,"{'description': (0x010E) ASCII=10002065, 10-20-22, Campus exterior, i4ARC, ARC, research tower, drone, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Building, night, lights, building, lights, building, lights, building, lights, building,"
+157,00211950-285_TIF.jpg,"{'description': (0x010E) ASCII=00211950-285, 04-30-20, Memphis views, sign, downtown, Mud Island, skyline, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Memphis, Mississippi, USA, city sign, city skyline, cityscape, city"
+158,00213122-020_JPG.jpg,"{'description': (0x010E) ASCII=00213122, campus aerial, exterior, drone @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Hospital, children's, children's research hospital, children's hospital, children's"
+159,195701-061_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. 
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 200, 1/2500, f/4.5, Mon, 05-22-2023 at 15:41. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: The image shows a person holding a pair of gloves, one of which is blue and white,"
+160,00195485-012_TIF.jpg,"{'description': (0x010E) ASCII=00195485-012, 09-30-17, Memphis views, bridges, Harahan Bridge, Frisco Bridge, Big River Crossing, Mississippi River, dusk, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Bridge, bridge over water, night, lights, lights, lights on bridge, lights on bridge over"
+161,00216036-023_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Tara Brinkman’s lab of Stephanie Guthrie. 
+
+- SJR - Tara Brinkman lab at Barry Longinotti Building.
+
+- Camera Settings: ILCE-9M2, 24mm, ISO 100, 1/2000, f/2, Thu, 04-14-2022 at 10:49. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Shadow, headphones, hair, reflection, shadow, person, hair, headphones"
+162,193101-006_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image of the Human Neural Stem Cell Core in Developmental Neurobiology. Anjana Nityanandam
+
+- SJR - Developmental Neurobiology - Human Neural Stem Cell Core at ARC, Inspiration4 Advanced Research Center.
+
+- Camera Settings: ILCE-9M2, 18mm, ISO 2500, 1/25, f/4.5, Tue, 05-30-2023 at 13:03. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Glasses, microscope, green light, green screen, green lighting, green light"
+163,195701-071_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. Pamela McKenzie, Jennifer DeBeauchamp-Newman
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 17mm, ISO 200, 1/640, f/4, Mon, 05-22-2023 at 16:05. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: The image shows two women wearing masks and gloves, one of them wearing a green"
+164,10001239-012_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Chia-ho Hua’s lab. Vadim Moskvin
+
+- SJR - Chia-ho Hua lab at KRCC, Kay Research and Care Center.
+
+- Camera Settings: ILCE-9M2, 14mm, ISO 2000, 1/60, f/3.2, Thu, 09-01-2022 at 11:37. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Laser, mask, surgery, surgical, medical, healthcare, doctor, patient,"
+165,240501-015_TIF.jpg,"{'description': (0x010E) ASCII=A Progress blog photo of Emiliy Zeng. 
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 800, 1/100, f/3.2, Wed, 08-09-2023 at 15:46. v.04.2024 MRP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Computer, monitor, glasses, woman, computer screen, computer monitor, computer, computer screen,"
+166,00216191-028_TIF.jpg,"{'description': (0x010E) ASCII=An image from the 2022 Scientific Annual Report of Peipei Zhou. 
+
+- SCFY22 - SAR - Peipei Zhou at ARC, Inspiration4 Advanced Research Center.
+
+- Camera Settings: ILCE-9M2, 22mm, ISO 800, 1/200, f/3.5, Mon, 05-16-2022 at 12:27. v.04.2024 OP @ 224}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Blood, lab, scientist, glass, microscope, tube, blood sample, blood"
+167,00215001-021_TIF.jpg,"{'description': (0x010E) ASCII=00215001-021, 10-26-21, Memphis views, downtown, bridge, Big River Crossing, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Bridge, light, metal, metal fence, night, nighttime, night view, night view"
+168,00202524-004_TIF.jpg,"{'description': (0x010E) ASCII=00202524-004, 10-03-18, campus exteriors, Danny Thomas ALSAC Pavilion, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Church, building, flowers, trees, sky, building, church, building, church, building,"
+169,00203581-013_Webster_TIF.jpg,"{'description': (0x010E) ASCII=00203581-013, 11-28-18, staff location portraits, individuals, presentation speaker, man, male, Robert Webster PhD (Infectious Diseases), @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: St jude children's research, speech, presentation, speaker, microphone, microphone stand"
+170,10002670-112-V1_TIF.jpg,"{'description': (0x010E) ASCII=10002670, Holiday Decorations, Christmas, Jude Lights, Stock, Campus @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Children, sculpture, light, night, park, grass, colorful, lights, nighttime"
+171,00208305-011_TIF.jpg,"{'description': (0x010E) ASCII=00208305-011, 07-22-19, staff - groups, laboratory, POEs, student, Oncololgy, African-American, female, male, (LR) Esther Obeng MD, PhD, Reid Palumbo, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Smiling woman and man in lab coats, both wearing lab coats, examining a"
+172,00204754-001_TIF.jpg,"{'description': (0x010E) ASCII=00204754-001, 01-30-19, office, books, laptop, computer, keyboard, hands, typing, glasses, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Clinical research, clinical practice guides, clinical research guides, clinical research"
+173,00204008-014_TIF.jpg,"{'description': (0x010E) ASCII=00204008-014, 01-09-19, research procedures, research instruments, microscopy, microscopes, hands, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Keywords: microscope, microscope slide, microscope slide holder, micros"
+174,00204903-003_TIF.jpg,"{'description': (0x010E) ASCII=00204903-003, 02-14-19, research instruments, science, laboratory, 96-well plate, vials, @ 200}","USER:  
+ Generate a comma separated list of high-quality metadata keywords (ONLY KEYWORDS). 
+ASSISTANT: Green, green light, green screen, green lighting, green laser, green laser light"

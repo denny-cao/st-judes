@@ -1,0 +1,639 @@
+,image_path,actual,predicted
+0,00213122-020_JPG.jpg,"{'description': (0x010E) ASCII=00213122, campus aerial, exterior, drone @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern hospital with a large dome-shaped roof, surrounded by"
+1,00204754-015_TIF.jpg,"{'description': (0x010E) ASCII=00204754-015, 01-30-19, research instruments, Affeymetrix, DNA microarrays, GeneChip arrays, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a row of fourteen identical machines, each with a set of fourteen identical bott"
+2,00204680-028_TIF.jpg,"{'description': (0x010E) ASCII=00204680-028, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a blue light illuminating a series of blue plastic bottles. The bott"
+3,00209080-009_TIF.jpg,"{'description': (0x010E) ASCII=00209080-009, 08-26-19, staff groups, location portraits, colleagues, collaborating, collaboration, researchers, white lab coats, laboratory background, (LR) Thirumala-Devi Kanneganti PhD (Immunology), Kesav Sannula PhD (Immunology), Parimal Parimal Samir PhD (Immunology), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a group of three men standing in a room, each holding a piece of paper."
+4,00204787-015_TIF.jpg,"{'description': (0x010E) ASCII=00204787-015, 02-05-19, research instruments, laboratory, 96 channel pipette, 96-well plates, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large collection of glass tubes filled with various types of liquid. The tubes"
+5,00204767-017_TIF.jpg,"{'description': (0x010E) ASCII=00204767-017, 01-31-19, research procedures, pipet, pipette, laboratory background, Youngdae Gwon PhD (Cell and Molecular Biology), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a person wearing gloves and a white lab coat, holding a microscope"
+6,235506-083_TIF.jpg,"{'description': (0x010E) ASCII=An image from the Structural Biology booklet of the X-ray Crystallography Center.
+
+- Structural Biology Booklet - X-ray Crystallography Center at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 1000, 1/160, f/4, Fri, 09-08-2023 at 10:26. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a close-up of a machine that is focused on a small object, possibly a"
+7,00204589-039_TIF.jpg,"{'description': (0x010E) ASCII=00204589-039, 01-18-19, research procedures, vials, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a person, likely a scientist, working on a table with several small plastic"
+8,00213077-003_TIF.jpg,"{'description': (0x010E) ASCII=00213077-003, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, Donald P Pinkel MD Research Tower, Danny Thomas Research Center, entrance, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large building with a glass dome on its roof, surrounded by trees. The"
+9,10001028-047_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Christopher Tinkle’s lab. Liying Fan
+
+- SJR - Christopher Tinkle lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 320, 1/500, f/2, Tue, 08-23-2022 at 10:55. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a woman wearing a white lab coat, standing in front of a yellow wall."
+10,00206969-006_Kalodimos_TIF.jpg,"{'description': (0x010E) ASCII=00206969-006, 05-23-19, staff location portraits, individuals, researchers, Bruker Ascend 1.1 GHz magnet, NMR, man, male, Babis Kalodimos PhD (Structural Biology), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man is sitting at a desk in a lab, reading a newspaper. He is wearing"
+11,00214366-424-V1_TIF.jpg,"{'description': (0x010E) ASCII=00214366, 06-24-21, ARC, Advanced Research Center, interiors, conference room, cafe, atrium, lounge, mother’s room, entrance, handicap, exterior patio @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large outdoor patio with a view of a city skyline. The pat"
+12,246004-016_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from the Developmental Neurobiology - Neurocytometry Core.
+
+- SJR - Developmental Neurobiology - Neurocytometry Core at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 500, 1/320, f/2.8, Thu, 09-07-2023 at 10:33. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large number of clear plastic tubes, each containing a small amount of liquid"
+13,00201431-028_TIF.jpg,"{'description': (0x010E) ASCII=00201431-028, 08-15-18, Administration, staff - location portraits, individuals, presentation speaker, James (Jim) Downing MD (St. Jude CEO and President), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a man standing in front of a group of people, giving a speech. He is"
+14,00202524-020_TIF.jpg,"{'description': (0x010E) ASCII=00202524-020, 10-03-18, campus exteriors, Longinotti Building, Barry Building, St Jude North Building, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large building with a red roof, standing in front of a tree. The building"
+15,00206948-020_TIF.jpg,"{'description': (0x010E) ASCII=000206948-020, 05-22-19, staff - location portraits, two-shot, MTC, break area, lounge, talking, collaboration, Scientific Report, male, female, Clinical Trials Administration, Affiliate Program Office, (LR) Victor Santana MD, Carolyn Russo MD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features two people sitting at a table, with one of them wearing glasses. They"
+16,00211332-018_TIF.jpg,"{'description': (0x010E) ASCII=00211332-018, 03-11-20, events, staff - location, Town Hall, COVID-19, Ellis Neufeld MD PhD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a man standing at a podium, giving a speech to a group of people."
+17,10002065-005-V2_TIF.jpg,"{'description': (0x010E) ASCII=10002065, 10-20-22, Campus exterior, i4ARC, ARC, research tower, drone, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a red roof and a glass exterior. The building is"
+18,327903-015_TIF.jpg,"{'description': (0x010E) ASCII=Campus Exterior 
+
+-  at .
+
+- Camera Settings: NIKON Z 9, 24mm, ISO 250, 1/60, f/2.8, Wed, 09-20-2023 at 05:56. v.12.01.23 @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large sculpture of a person with a DNA strand hanging from their neck"
+19,00195485-012_TIF.jpg,"{'description': (0x010E) ASCII=00195485-012, 09-30-17, Memphis views, bridges, Harahan Bridge, Frisco Bridge, Big River Crossing, Mississippi River, dusk, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a bridge over a river, with a bridge span visible in the background. The bridge"
+20,00214663-012-V1_TIF.jpg,"{'description': (0x010E) ASCII=00214648, IARC research tower, ARC @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern office building with a glass exterior. The building is tall and has"
+21,00202524-010_TIF.jpg,"{'description': (0x010E) ASCII=00202524-010, 10-03-18, campus exteriors, Longinotti Building, Barry Building, St Jude North Building, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large building with a green tree in front of it. The tree is surrounded by"
+22,00214999-018_TIF.jpg,"{'description': (0x010E) ASCII=00214999-018, 10-21-21, Memphis views, downtown, city, trolly, Main Street, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a green and yellow bus driving down a street. The bus is parked on the"
+23,00204697-012_TIF.jpg,"{'description': (0x010E) ASCII=00204697-012, 01-31-19, research instruments, laboratory, reagent bottles, glassware, cleaning, autoclave,  @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a table filled with a variety of clear bottles, each containing a different liquid."
+24,144801-111_TIF.jpg,{'description': (0x010E) ASCII=Mural Painting on Broad Ave @ 224},"USER:  
+ Generate a description. 
+ASSISTANT: The image features a large building with a colorful mural on its side. The mural is"
+25,00204697-010_TIF.jpg,"{'description': (0x010E) ASCII=00204697-010, 01-31-19, research instruments, laboratory, reagent bottles, glassware, cleaning, autoclave, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a glass shelf filled with a variety of clear glass vials. The v"
+26,00199428-025_TIF.jpg,"{'description': (0x010E) ASCII=00199428-025, 05-03-18, research instruments, mirrors, lasers, Flow Cytometry, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a close-up of a computer circuit board with a series of wires connected to"
+27,00210352-040_TIF.jpg,"{'description': (0x010E) ASCII=00210352-040, 12-20-19, events, staff - location, reception, Global Pediatric Medicine, Carlos Rodriguez Galindo MD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a man standing in a crowd of people, giving a speech. He is holding a"
+28,00216097-020-V2_TIF.jpg,"{'description': (0x010E) ASCII=00216097, campus aerial views, exterior @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large city skyline with a tall building in the background. Above the city"
+29,00215616-013_TIF.jpg,"{'description': (0x010E) ASCII=00215616, Memphis Views, Mighty Lights, Memphis Bridge, Mississippi river, Have More in Memphis @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large bridge over a river, with a purple sky in the background. The"
+30,00212010-038_TIF.jpg,"{'description': (0x010E) ASCII=00212010-038, 05-07-20, events, COVID, COVID-19, coronavirus, pandemic, social distancing, campus exteriors, Dominos Event Center, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large brick building with a large clock on the side of it. A woman is"
+31,00204680-009_TIF.jpg,"{'description': (0x010E) ASCII=00204680-009, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a blue shelf filled with numerous bottles of various sizes and shapes. The bott"
+32,00194570-013_TIF.jpg,"{'description': (0x010E) ASCII=00194570-013, 08-03-17, campus aerials, campus exteriors, drone aerial image, meditation garden, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, colorful garden with a heart-shaped mosaic on the"
+33,00207635-002_TIF.jpg,"{'description': (0x010E) ASCII=00207635-002, 07-18-19, staff groups, location portraits, colleagues, collaborating, collaboration, (LR) Akinori Okada (Radiation Oncology), Jackie Faught (Radiation Oncology), Andrew Saunders (Radiation Oncology), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a group of three people, two men and a woman, standing in a room with"
+34,00216087-057-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216087, Memphis views, Have More in Memphis, Central BBQ @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large blue and white tiger statue sitting on a bench in a city street"
+35,00204787-027_TIF.jpg,"{'description': (0x010E) ASCII=00204787-027, 02-05-19, campus interiors, Biomedical Library, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large room with a variety of seating options, including several chairs and a"
+36,00213123-001_TIF.jpg,"{'description': (0x010E) ASCII=00213123, campus aerial, exterior, drone, Rainbow @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large city with a beautiful skyline, including a large building with a golden d"
+37,00204787-022_TIF.jpg,"{'description': (0x010E) ASCII=00204787-022, 02-05-19, research instruments, laboratory, 96 channel pipette, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a long row of glass tubes, each containing a clear liquid. The tubes"
+38,10002581-136-V1_TIF.jpg,"{'description': (0x010E) ASCII=10002581, 11-16-22, Memphis views, Nature, Overton Park, Have More in Memphis, walking trail @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large sculpture of a tree with a sun shining on it, creating a"
+39,00216511-027-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior, aerial views @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image showcases a large city with a mix of tall buildings and trees. The skyline is"
+40,00214648-005_TIF.jpg,"{'description': (0x010E) ASCII=00214648, IARC research tower, ARC @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, red building with a red roof and a red and white building in the"
+41,00206966-004_Abraham_TIF.jpg,"{'description': (0x010E) ASCII=00206966-004, 05-23-19, staff - location portraits, office, Computational Biology, male, Brian Abraham, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man is sitting at a desk with a laptop open in front of him. He is we"
+42,00216511-028-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior, aerial views @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large city with a mix of tall buildings, including a hospital, apartment buildings"
+43,00198073-006_TIF.jpg,"{'description': (0x010E) ASCII=00198073-006, 02-23-18, campus sculpture, interiors, details, DNA structure, art, lobby, GMP, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, colorful, and intricately designed ceiling with a spiral"
+44,00154810-112_wm_TIF.jpg,"{'description': (0x010E) ASCII=00154810-112, 04-10-12, Memphis views, outdoors, architecture, bridge, (LR) Memphis-Arkansas Bridge, Frisco Bridge, Harahan Bridge, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a bridge with two sets of railings, one above the other, spanning across"
+45,10000715-041_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Puneet Bagga’s lab. Esther Pavao
+
+- SJR - Puneet Bagga lab at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 500, 1/20, f/2, Thu, 08-04-2022 at 14:30. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a woman wearing glasses and a white shirt, looking through a micros"
+46,135201-021-V4_TIF.jpg,"{'description': (0x010E) ASCII=Campus exterior drone photos, evening, Bass Pro Shops at Pyramid,stock @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, illuminated building with a blue roof, which is the iconic"
+47,00213077-020_TIF.jpg,"{'description': (0x010E) ASCII=00213077-020, 11-09-20, campus exteriors, campus details, fall, seasons, reflections, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large building with a large glass window, possibly a hospital, and a large building"
+48,130602-010-V1_TIF.jpg,"{'description': (0x010E) ASCII=Campus exterior, IARC Research tower @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a red roof and a glass front. The building is"
+49,248302-012_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from Tommaso Cupido’s lab. Tommaso Cupido
+
+- SJR - Tommaso Cupido lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 640, 1/400, f/1.8, Thu, 09-14-2023 at 12:53. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: A person is standing in front of a whiteboard with various chemical symbols and formulas written on it."
+50,10001239-012_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Chia-ho Hua’s lab. Vadim Moskvin
+
+- SJR - Chia-ho Hua lab at KRCC, Kay Research and Care Center.
+
+- Camera Settings: ILCE-9M2, 14mm, ISO 2000, 1/60, f/3.2, Thu, 09-01-2022 at 11:37. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a man wearing a blue shirt and glasses, working on a machine that"
+51,00206983-014_TIF.jpg,"{'description': (0x010E) ASCII=00206983-014, 05-24-19, staff - groups, lab, Cell and Molecular Biology, (LR) Klementina Fon Tacer PhD, Ryan Potts PhD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a man and a woman standing in a room, both wearing white lab coats"
+52,00212017-014_TIF.jpg,"{'description': (0x010E) ASCII=00212017-014, 05-15-20, staff - location, events, Coffee Break, COVID, COVID-19, pandemic, administration, James Downing MD (President and CEO), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man wearing a suit and tie sits in a chair, smiling and looking at the"
+53,00203581-013_Webster_TIF.jpg,"{'description': (0x010E) ASCII=00203581-013, 11-28-18, staff location portraits, individuals, presentation speaker, man, male, Robert Webster PhD (Infectious Diseases), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man is standing in front of a podium, giving a speech. He is wearing a"
+54,216202-005_TIF.jpg,"{'description': (0x010E) ASCII=New Daisy Theater
+- Camera Settings: ILCE-9M2, 15mm, ISO 160, 1/30, f/10, Fri, 06-23-2023 at 14:21. @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, ornate theater with a neon sign that reads ""New Da"
+55,00213124-010_TIF.jpg,"{'description': (0x010E) ASCII=00213124, campus aerial, exterior, drone @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large city with a mix of tall buildings and trees. A large, ornate"
+56,00204903-003_TIF.jpg,"{'description': (0x010E) ASCII=00204903-003, 02-14-19, research instruments, science, laboratory, 96-well plate, vials, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a green light shining on a green plate, which is placed on a table."
+57,10002670-124-V1_TIF.jpg,"{'description': (0x010E) ASCII=10002670, Holiday Decorations, Christmas, Jude Lights, Stock, Campus @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, colorful statue of a man dressed in red and blue, standing in"
+58,195701-071_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. Pamela McKenzie, Jennifer DeBeauchamp-Newman
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 17mm, ISO 200, 1/640, f/4, Mon, 05-22-2023 at 16:05. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: Two women are wearing masks and gloves while standing on a beach. They are examining"
+59,135201-010-V3_TIF.jpg,"{'description': (0x010E) ASCII=ALSAC Tamer Rashid Building, Campus exterior drone photos, evening, stock @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a red roof and a pink roof. The building"
+60,00216408-007_TIF.jpg,"{'description': (0x010E) ASCII=An image from the 2022 Scientific Annual Report of Yichao Li and Yong Cheng. 
+
+- SCFY22 - SAR - Yichao Li, Yong Cheng at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 85mm, ISO 400, 1/160, f/2, Wed, 06-08-2022 at 13:52. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: Two men are standing in front of a large screen, each holding a piece of paper. They are"
+61,00216338-005_TIF.jpg,"{'description': (0x010E) ASCII=A media release image of Timothy (Tim) Stachowski and Marcus Fischer. 
+
+- Camera Settings: ILCE-9M2, 24mm, ISO 500, 1/125, f/4.5, Fri, 06-03-2022 at 10:44. v.04.2024 MRP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: Two men are standing in a room, each holding a piece of paper with a diagram on it."
+62,00207528-008_TIF.jpg,"{'description': (0x010E) ASCII=00207528-008, 07-10-19, staff - location portraits, researchers, two-shot, working, lab, mentors, Immunology, (LR) Ben Youngblood PhD, Shannon Boi PhD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: Two people are standing in a lab, one of them wearing a lab coat. They are exam"
+63,00211922-121_TIF.jpg,"{'description': (0x010E) ASCII=00211922-121, 04-06-20, events, staff - location, COVID-19, coronavirus, Unsung Heroes, Office of Legal Services, LaResa Young, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A woman is sitting at a desk in front of a computer screen, working on her laptop."
+64,00211950-285_TIF.jpg,"{'description': (0x010E) ASCII=00211950-285, 04-30-20, Memphis views, sign, downtown, Mud Island, skyline, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large white sign with the word ""MEMORIAL"" written on it."
+65,10002065-001-V2_TIF.jpg,"{'description': (0x010E) ASCII=10002065, 10-20-22, Campus exterior, i4ARC, ARC, research tower, drone, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern office building with a red roof and a glass exterior. The building"
+66,00208305-013_TIF.jpg,"{'description': (0x010E) ASCII=00208305-013, 07-22-19, staff - groups, laboratory, POEs, student, Oncololgy, African-American, female, male, (LR) Esther Obeng MD, PhD, Reid Palumbo, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a woman and a man standing next to each other, both wearing lab coats"
+67,00204680-023_TIF.jpg,"{'description': (0x010E) ASCII=00204680-023, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a blue display case filled with a variety of transparent plastic bottles. The bott"
+68,00204666-111_TIF.jpg,"{'description': (0x010E) ASCII=00204666-111, 01-29-19, research instruments, science, laboratory, genome sequencing slides, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a collection of colorful, rainbow-colored pens or markers. There are"
+69,00211245-159_cmp_TIF.jpg,"{'description': (0x010E) ASCII=00211245-159, 03-02-20, campus interiors, Bone Marrow Transplant, BMT, inpatient room, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a hospital room with a hospital bed, a couch, and a chair. The"
+70,195701-067_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. Jon (Patrick) Seiler
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 12mm, ISO 200, 1/6400, f/5.6, Mon, 05-22-2023 at 15:55. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a man wearing a hat and a black jacket kneeling on a rocky"
+71,00202381-006_TIF.jpg,"{'description': (0x010E) ASCII=00202381-006, 09-21-18, Memphis views, aerials, drone view, downtown Memphis, cityscape, sunrise, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image captures a beautiful cityscape with a sunset in the background. The sky is"
+72,00214636-002_TIF.jpg,"{'description': (0x010E) ASCII=00214636, campus aerial, campus exterior, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, multi-story building with a red roof, surrounded by trees. The"
+73,00213077-013_TIF.jpg,"{'description': (0x010E) ASCII=00213077-013, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large building with a red roof, which is a part of a hospital. The"
+74,00202806-004_TIF.jpg,"{'description': (0x010E) ASCII=00202806-004, 10-15-18, campus details, campus exteriors, holidays, Halloween, decorations, PCC, Patient Care Center, St. Jude Thaddeus statue, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large red building with a statue of a statue of a man in front of it"
+75,00201051-092_TIF.jpg,"{'description': (0x010E) ASCII=00201051-092, 06-24-18, clinical procedures, location portraits, Eye Clinic, male, boy, Kaden Haynes, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a young child with glasses, looking through a pair of eyeglasses"
+76,00204903-005_TIF.jpg,"{'description': (0x010E) ASCII=00204903-005, 02-14-19, research instruments, science, laboratory, 96-well plate, vials, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a white computer monitor with a green light on it. The monitor is placed on a"
+77,00207400-092_TIF.jpg,"{'description': (0x010E) ASCII=00207400-092, 06-21-19, Board of Governors, Board Tribute Dinner,  DEC, Camille Sarrouf Jr, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a man standing at a podium, holding a microphone and giving a speech."
+78,10002190-031_JPG.jpg,"{'description': (0x010E) ASCII=10002190, 11-01-22, people hospital staff, campus interior, Proton Therapy Center, Radiation Oncology, The Memphis Museum of Science and History, MoSH, @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, clean, and shiny metal surface, possibly a table or a large"
+79,00207610-013_TIF.jpg,"{'description': (0x010E) ASCII=00207610-013, 07-16-19, research procedures, lab, plates, mentor, POE, (LR) Jun Yang, Victoria Jones, @ 188}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a man and a woman standing in a lab, examining a piece of paper."
+80,10001677-040_TIF.jpg,"{'description': (0x010E) ASCII=10-05-22, Campus exterior, i4ARC, ARC, research tower, drone, evening, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large building with a red roof, which is the Inspire Advanced Research Center"
+81,203901-025_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from Steve Varga’s lab. Stacey Hartwig
+
+- SJR - Steven (Steve) Varga lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 35mm, ISO 400, 1/500, f/1.8, Wed, 06-21-2023 at 14:48. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: A woman is looking at a computer screen displaying a series of images of cells. She is holding a"
+82,00183960-067_wm_TIF.jpg,"{'description': (0x010E) ASCII=00183960-067, 03-17-16, research procedures, laboratory, lab, pipet, pipette, pipetting, drop, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a close-up view of a glass tube filled with liquid, which appears to"
+83,195701-061_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. 
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 200, 1/2500, f/4.5, Mon, 05-22-2023 at 15:41. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a person wearing blue gloves and holding a pair of scissors. The"
+84,00214648-006_TIF.jpg,"{'description': (0x010E) ASCII=00214648, IARC research tower, ARC @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a red roof and a glass facade. The building"
+85,00206948-018_TIF.jpg,"{'description': (0x010E) ASCII=00206948-018, 05-22-19, staff - location portraits, two-shot, MTC, break area, lounge, talking, collaboration, Scientific Report, male, female, Clinical Trials Administration, Affiliate Program Office, (LR) Victor Santana MD, Carolyn Russo MD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows two people sitting at a dining table, engaged in a conversation. They are surrounded"
+86,00214636-006_TIF.jpg,"{'description': (0x010E) ASCII=00214636-006, 07-01-21, campus aerial, campus exterior, Hope garden, drone @ 188}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, colorful mosaic of a heart with a blue heart on it"
+87,00215001-021_TIF.jpg,"{'description': (0x010E) ASCII=00215001-021, 10-26-21, Memphis views, downtown, bridge, Big River Crossing, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a long, narrow walkway with a metal fence on both sides. A group"
+88,00205747-012_TIF.jpg,"{'description': (0x010E) ASCII=00205747-012, 03-26-19,research instruments, hands, working, controller board cryoEM, microscope, microscopy, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a person's hand pressing a button on a control panel. The control panel is"
+89,00207603-009_TIF.jpg,"{'description': (0x010E) ASCII=00207603-014, 07-12-19, campus interiors, Diagnostic Imaging, lobby, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image depicts a large, open room with a variety of seating options. There are"
+90,10001677-044-V1_TIF.jpg,"{'description': (0x010E) ASCII=10-05-22, Campus exterior, i4ARC, ARC, research tower, drone, evening, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large office building with a large sign that reads ""Spiritual Advance Research"
+91,240501-015_TIF.jpg,"{'description': (0x010E) ASCII=A Progress blog photo of Emiliy Zeng. 
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 800, 1/100, f/3.2, Wed, 08-09-2023 at 15:46. v.04.2024 MRP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: A woman is sitting at a desk with a computer screen in front of her. She is we"
+92,00204680-025_TIF.jpg,"{'description': (0x010E) ASCII=00204680-025, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a blue refrigerator filled with a variety of scientific instruments. The refr"
+93,219801-017_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website photo for Kiel Neumann’s lab.
+
+- SJR - Kiel Neumann lab at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 320, 1/80, f/4, Tue, 08-01-2023 at 10:30. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, clear glass measuring cup filled with a dark liquid. The cup is"
+94,00216191-028_TIF.jpg,"{'description': (0x010E) ASCII=An image from the 2022 Scientific Annual Report of Peipei Zhou. 
+
+- SCFY22 - SAR - Peipei Zhou at ARC, Inspiration4 Advanced Research Center.
+
+- Camera Settings: ILCE-9M2, 22mm, ISO 800, 1/200, f/3.5, Mon, 05-16-2022 at 12:27. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: A man is standing in front of a microscope, examining a sample of blood. He"
+95,00204754-001_TIF.jpg,"{'description': (0x010E) ASCII=00204754-001, 01-30-19, office, books, laptop, computer, keyboard, hands, typing, glasses, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a person sitting at a desk with several books stacked on it. The books"
+96,00198151-011_TIF.jpg,"{'description': (0x010E) ASCII=00198151-011, 02-27-18, campus sculpture, interiors, details, DNA structure, art, lobby, GMP, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, colorful, and curved structure with a spiral design. The"
+97,00216511-010-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior, I4ARC research tower, ARC, drone @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern office building with a red roof and a glass exterior. The building"
+98,00209213-005_Ridsdale_TIF.jpg,"{'description': (0x010E) ASCII=00209213-005, 09-06-19, staff location portraits, individuals, office background, man, male, Daniel Moreira Ridsdale MD (Global Pediatric Medicine), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man is sitting at a desk with a laptop and a book open in front of him."
+99,00212001-011_TIF.jpg,"{'description': (0x010E) ASCII=00212001-011, 04-24-20, staff - location, events, Coffee Break, COVID, COVID-19, pandemic, administration, (LR) John Leech, James Downing MD (President and CEO), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a man wearing a suit and tie, sitting in a chair with his hands cl"
+100,135201-011-V3_TIF.jpg,"{'description': (0x010E) ASCII=Campus exterior drone photos, evening, stock, Inspiration4 Advanced Research Center @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a red roof and a green facade. The building"
+101,00208436-029_TIF.jpg,"{'description': (0x010E) ASCII=00208436-029, 07-31-19, staff - location portraits, two-shot, Hematology, African-American, female, (LR) Jane Hankins MD, Shelia Anderson, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: Two women are standing next to each other, talking and smiling. One of them is wearing"
+102,00211332-004_TIF.jpg,"{'description': (0x010E) ASCII=00211332-004, 03-11-20, events, staff - location, Town Hall, COVID-19, James Downing MD (President and CEO), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a large auditorium filled with people sitting in chairs. There are many people"
+103,203901-026_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from Steve Varga’s lab.
+
+- SJR - Steven (Steve) Varga lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 400, 1/800, f/2.8, Wed, 06-21-2023 at 15:00. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a black and yellow gaming controller with four buttons. The controller is placed on a"
+104,00202524-015_TIF.jpg,"{'description': (0x010E) ASCII=00202524-015, 10-03-18, campus exteriors, Danny Thomas ALSAC Pavilion, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, ornate building with a gold dome, possibly a mosque,"
+105,00213077-011_TIF.jpg,"{'description': (0x010E) ASCII=00213077-011, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, garden, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a beautifully landscaped garden with a large brick fountain in the center"
+106,00213077-014_TIF.jpg,"{'description': (0x010E) ASCII=00213077-014, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, St Jude statue, Richard C Shadyac ALSAC Tower, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The statue of a man wearing a white robe and holding a book is located in front of"
+107,353104-004_TIF.jpg,"{'description': (0x010E) ASCII=Hope Garden
+
+-  at Hope Garden.
+
+- Camera Settings: L1D-20c, 28mm, ISO 100, 1/1000, f/7.1, Wed, 01-31-2024 at 12:14. v.12.01.23 @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, colorful mural of a child on a playground, surrounded by"
+108,00204666-119_TIF.jpg,"{'description': (0x010E) ASCII=00204666-119, 01-29-19, research instruments, science, laboratory, genome sequencing slides, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a close-up view of a rainbow colored pair of glasses. The glass"
+109,00208305-011_TIF.jpg,"{'description': (0x010E) ASCII=00208305-011, 07-22-19, staff - groups, laboratory, POEs, student, Oncololgy, African-American, female, male, (LR) Esther Obeng MD, PhD, Reid Palumbo, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a woman and a man in lab coats, both smiling and examining a"
+110,00204666-127_TIF.jpg,"{'description': (0x010E) ASCII=00204666-127, 01-29-19, research instruments, science, laboratory, genome sequencing slides, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a close-up of a pair of neon lights, which are illuminated"
+111,10002670-121_TIF.jpg,"{'description': (0x010E) ASCII=10002670, Holiday Decorations, Christmas, Jude Lights, Stock, Campus @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image captures a busy city street at night with a car driving down the road. The street"
+112,00211922-107_TIF.jpg,"{'description': (0x010E) ASCII=00211922-107, 04-06-20, events, staff - location, COVID-19, coronavirus, Unsung Heroes, Animal Resource Center, ARC, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a person wearing blue gloves and a white coat, holding a piece of pl"
+113,00213011-013_TIF.jpg,"{'description': (0x010E) ASCII=00213011-013, 11-04-20,  campus exteriors, campus details, fall, seasons, leaves, Kay Research and Care Center, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large building with a sign that reads ""Kay Research & Care Center."" The"
+114,00213124-054_TIF.jpg,"{'description': (0x010E) ASCII=00213124, campus aerial, exterior, drone @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, tree-filled city park with a tall building in the background. The"
+115,00212017-011_TIF.jpg,"{'description': (0x010E) ASCII=00212017-011, 05-15-20, staff - location, events, Coffee Break, COVID, COVID-19, pandemic, administration, Spiritual Care Services, Mark Brown, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man wearing a blue blazer and glasses is sitting in a chair, holding a micro"
+116,00213011-002_TIF.jpg,"{'description': (0x010E) ASCII=00213011-002, 11-04-20,  campus exteriors, campus details, fall, seasons, leaves, Marlo Thomas Center, Kay Research and Care Center, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a red roof and a glass facade. The building"
+117,00202524-004_TIF.jpg,"{'description': (0x010E) ASCII=00202524-004, 10-03-18, campus exteriors, Danny Thomas ALSAC Pavilion, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large brick building with a tall dome on top, possibly a church, surrounded"
+118,10001677-029-V1_TIF.jpg,"{'description': (0x010E) ASCII=10-05-22, Campus exterior, i4ARC, ARC, research tower, drone, evening, Inspiration Advanced Research Center @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a glass exterior. The building has a prominent sign that"
+119,00201051-217_TIF.jpg,"{'description': (0x010E) ASCII=00201051-217, 06-24-18, children location portraits, individuals, outside, outdoors, teddy bear, Kaden Haynes, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a brown teddy bear with a teddy bear face, sitting on a person'"
+120,00204008-014_TIF.jpg,"{'description': (0x010E) ASCII=00204008-014, 01-09-19, research procedures, research instruments, microscopy, microscopes, hands, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A person is working on a microscope, focusing on a blue object. The person is"
+121,00204798-011_TIF.jpg,"{'description': (0x010E) ASCII=00204798-011, 02-07-19, clinical procedures, Infusion Pump part, @ 188}","USER:  
+ Generate a description. 
+ASSISTANT: A person is holding a blue plastic bag with a white label, which is filled with a white"
+122,10002670-112-V1_TIF.jpg,"{'description': (0x010E) ASCII=10002670, Holiday Decorations, Christmas, Jude Lights, Stock, Campus @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a group of young children standing in a grassy area, each holding a lighted"
+123,10000715-037_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Puneet Bagga’s lab. Esther Pavao
+
+- SJR - Puneet Bagga lab at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 1600, 1/50, f/4, Thu, 08-04-2022 at 14:28. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: A woman is looking through a microscope, examining a slide of cells. The micros"
+124,00195485-003_TIF.jpg,"{'description': (0x010E) ASCII=00195485-003, 09-30-17, Memphis views, bridges, Harahan Bridge, Frisco Bridge, Big River Crossing, Mississippi River, dusk, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a beautiful view of a bridge over a river at dusk. The bridge is ill"
+125,00204796-004_TIF.jpg,"{'description': (0x010E) ASCII=00204796-004, 02-06-19, research instruments, fluorescent, fluorescence, slides, Applied Spectral Imaging Cytogenetic Scanning system, Zeiss Imager Z2 upright microscope, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a microscope with a green light shining on a slide. The slide is"
+126,00204903-010_TIF.jpg,"{'description': (0x010E) ASCII=00204903-010, 02-14-19, research instruments, science, laboratory, 96-well plate, vials, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a dark room with a table filled with various white plastic containers. The containers are"
+127,193101-006_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image of the Human Neural Stem Cell Core in Developmental Neurobiology. Anjana Nityanandam
+
+- SJR - Developmental Neurobiology - Human Neural Stem Cell Core at ARC, Inspiration4 Advanced Research Center.
+
+- Camera Settings: ILCE-9M2, 18mm, ISO 2500, 1/25, f/4.5, Tue, 05-30-2023 at 13:03. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: A woman is standing in front of a microscope, examining a piece of green material."
+128,229503-003_JPG.jpg,"{'description': (0x010E) ASCII=photo of ALSAC Gift Shop.
+
+- Camera Settings: ILCE-9M2, 24mm, ISO 200, 1/250, f/7.1, Tue, 11-14-2023 at 10:39. v.08.15.23 @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a red roof and a glass exterior. The building is"
+129,00213077-017_TIF.jpg,"{'description': (0x010E) ASCII=00213077-017, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, Richard C Shadyac ALSAC Tower, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a red tree with leaves, surrounded by a building with a red and white sign."
+130,00216511-023-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus aerial, exterior, drone @ 188}","USER:  
+ Generate a description. 
+ASSISTANT: The image showcases a large city with a mix of buildings, including a large building with a large"
+131,00047369-005_color_TIF.jpg,"{'description': (0x010E) ASCII=00047369-005, 08-01-97, research procedures, research, close, up, scientific, culture, plate, plates, dish, technical, colorful, red, black @ 176}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a close-up of a person's hand holding a small, round, red"
+132,00213123-011_v2_TIF.jpg,"{'description': (0x010E) ASCII=00213123-11, campus aerial, campus exterior, aerial views, drone @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image showcases a large city with a mix of buildings, including apartment complexes and commercial"
+133,00216097-005_TIF.jpg,"{'description': (0x010E) ASCII=00216097, campus aerial views, exterior @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large city with a mix of residential and commercial buildings. The cityscape"
+134,00216097-014-V2_TIF.jpg,"{'description': (0x010E) ASCII=00216097, campus aerial views, exterior @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large city with a mix of tall buildings, including a large building with a large"
+135,00204680-005_TIF.jpg,"{'description': (0x010E) ASCII=00204680-005, 01-29-19, research instruments, bottles, Macromolecular Synthesis, Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a row of white plastic bottles lined up next to each other. Each"
+136,238502-019_TIF.jpg,"{'description': (0x010E) ASCII=A St Jude Research website and Investigator Insights photo of Manoo Bhakta and Nickhill Bhakta.
+
+- SJR - Investigator Insights - Manoo Bhakta, Nickhill Bhakta at Tamer-Rashid Building.
+
+- Camera Settings: ILCE-9M2, 133mm, ISO 400, 1/320, f/4, Fri, 08-18-2023 at 15:29. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows two men walking down a hallway, each holding a cell phone. They are walking"
+137,10002065-010_TIF.jpg,"{'description': (0x010E) ASCII=10002065, 10-20-22, Campus exterior, i4ARC, ARC, research tower, drone, Inspiration Advanced Research Center @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a glass exterior, standing tall in the city. The"
+138,353104-001-V1_TIF.jpg,"{'description': (0x010E) ASCII=Hope Garden
+
+-  at Hope Garden.
+
+- Camera Settings: L1D-20c, 28mm, ISO 100, 1/800, f/6.3, Wed, 01-31-2024 at 12:11. v.12.01.23 @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a playground with a heart-shaped mural on the sidewalk. The"
+139,00213077-012_TIF.jpg,"{'description': (0x010E) ASCII=00213077-012, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, garden, @ 188}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a beautifully landscaped garden with a brick wall and a fountain in"
+140,00209080-004_TIF.jpg,"{'description': (0x010E) ASCII=00209080-004, 08-26-19, staff groups, location portraits, colleagues, collaborating, collaboration, researchers, (LR) Thirumala-Devi Kanneganti PhD (Immunology), Kesav Sannula PhD (Immunology), Parimal Parimal Samir PhD (Immunology), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a group of three people sitting around a table, each working on a piece of paper"
+141,00206969-018_Kalodimos_TIF.jpg,"{'description': (0x010E) ASCII=00206969-018, 05-23-19, staff location portraits, individuals, researchers, Bruker Ascend 1.1 GHz magnet, NMR, man, male, Babis Kalodimos PhD (Structural Biology), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man is standing in front of a large, white, cylindrical object, possibly a radio"
+142,00204787-016_TIF.jpg,"{'description': (0x010E) ASCII=00204787-016, 02-05-19, research instruments, laboratory, 96 channel pipette, 96-well plates, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a machine with a large number of small, purple, and pink dots"
+143,00202524-038_TIF.jpg,"{'description': (0x010E) ASCII=00202524-038, 10-03-18, campus exteriors, ALSAC Headquarters Addition, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, tall building with a pink exterior, standing tall in the city."
+144,00204680-002_TIF.jpg,"{'description': (0x010E) ASCII=00204680-002, 01-29-19, research instruments, bottles, Macromolecular Synthesis, Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a shelf filled with a variety of bottles, each containing a different type of"
+145,289003-003_JPG.jpg,"{'description': (0x010E) ASCII=photo of Dr. James R. Downing at MTC, Marlo Thomas Center Board Room. 
+
+- Camera Settings: ILCE-7M4, 50mm, ISO 200, 1/25, f/2.8, Fri, 10-06-2023 at 09:34. v.08.15.23 @ 248}","USER:  
+ Generate a description. 
+ASSISTANT: The man in the image is wearing a suit and tie, standing in front of a podium"
+146,00212014-032_TIF.jpg,"{'description': (0x010E) ASCII=00212014-032, 05-12-20, events, staff - location, COVID, COVID-19, pandemic, coronavirus, social distancing, Childrens GMP, lab, tests, VTM, viral transport media, Unsung Heroes, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a person holding a glass tube filled with liquid, possibly a blood sample. The"
+147,00216097-013-V2_TIF.jpg,"{'description': (0x010E) ASCII=00216097-013, Campus Aerial views, drone @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a large city with a mix of buildings, including a large office building, apartment"
+148,00206969-003_Kalodimos_TIF.jpg,"{'description': (0x010E) ASCII=00206969-003, 05-23-19, staff location portraits, individuals, researchers, smiles, smiling, Bruker Ascend 1.1 GHz magnet, NMR, man, male, Babis Kalodimos PhD (Structural Biology), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man is standing in a room with a large, blue, glowing object in the background"
+149,195701-066_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. Pamela McKenzie, Jennifer DeBeauchamp-Newman, Jon (Patrick) Seiler
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 12mm, ISO 200, 1/640, f/5.6, Mon, 05-22-2023 at 15:54. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows three people wearing masks and gloves, possibly in a medical setting. They"
+150,00212430-018_TIF.jpg,"{'description': (0x010E) ASCII=00212430-018, 08-11-20, staff - groups, staff - location portraits, Scientific Report, Radiation Oncology, male, man, Thomas Merchant DO, PhD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man wearing a white lab coat and glasses is standing in a hospital room. He is"
+151,00204666-113_TIF.jpg,"{'description': (0x010E) ASCII=00204666-113, 01-29-19, research instruments, science, laboratory, genome sequencing slides, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a close-up view of a red and blue striped object, possibly a cell"
+152,00209202-021_Capers_TIF.jpg,"{'description': (0x010E) ASCII=00209202-021, 09-04-19, events, Blueprint Series, MTC auditorium, Shari Capers (Strategic Planning), @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a woman standing at a podium, giving a speech to a large audience. She"
+153,00216097-005-V2_TIF.jpg,"{'description': (0x010E) ASCII=00216097, Campus Aerial views @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large city with a mix of residential and commercial buildings. The cityscape"
+154,00204680-015_TIF.jpg,"{'description': (0x010E) ASCII=00204680-015, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a blue light shining on a series of clear plastic tubes. The tub"
+155,00174912-082_wm_TIF.jpg,"{'description': (0x010E) ASCII=00174912-082, 12-06-14, sports, running, runners, walk, walkers, shoes, logo, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a group of people standing together on a road, with their feet spread out in a"
+156,00204697-011_TIF.jpg,"{'description': (0x010E) ASCII=00204697-011, 01-31-19, research instruments, laboratory, reagent bottles, glassware,  @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large collection of clear plastic bottles, each containing water. The bottles"
+157,00216097-013-V2_TIF#01.jpg,"{'description': (0x010E) ASCII=00216097, campus aerial views, exterior @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image shows a large city with a mix of buildings, including a large office building, apartment"
+158,00211211-335_Green_TIF.jpg,"{'description': (0x010E) ASCII=00211211-335, 02-19-20, staff - location portraits, patient room, Nursing, female, African-American, Charmayne Green, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a smiling woman in a hospital room, wearing a pink shirt and"
+159,00216036-023_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research image from Tara Brinkman’s lab of Stephanie Guthrie. 
+
+- SJR - Tara Brinkman lab at Barry Longinotti Building.
+
+- Camera Settings: ILCE-9M2, 24mm, ISO 100, 1/2000, f/2, Thu, 04-14-2022 at 10:49. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a person wearing headphones, with their hair partially obscured by the head"
+160,248302-009_TIF.jpg,"{'description': (0x010E) ASCII=A St. Jude Research website image from Tommaso Cupido’s lab. 
+
+- SJR - Tommaso Cupido lab at Donald P. Pinkel, MD, Research Tower.
+
+- Camera Settings: ILCE-9M2, 55mm, ISO 1250, 1/1250, f/1.8, Thu, 09-14-2023 at 12:51. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a white board with various symbols and words written on it. The board is covered in"
+161,309802-021_TIF.jpg,"{'description': (0x010E) ASCII=A St Jude Research Website and Pharmacy and Pharmaceutical Sciences annual report photo in the Pharmacotyping Resource lab. Landon Choi
+
+- PPS Report - Pharmacotyping Resource at CCC, Chili's Care Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 800, 1/125, f/4.5, Fri, 11-17-2023 at 11:42. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a person wearing glasses and holding a microscope in their hands. The"
+162,195701-128_TIF.jpg,"{'description': (0x010E) ASCII=Members of Infectious Diseases travel to Delaware Bay to gather sample for studying bird flu. 
+
+- FY23 - Delaware Bay at Delaware Bay.
+
+- Camera Settings: ILCE-9M2, 24mm, ISO 250, 1/640, f/9, Tue, 05-23-2023 at 10:11. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a person wearing blue gloves and a white lab coat, standing on a beach"
+163,00216511-003-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior, I4ARC research tower, ARC, drone @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large, modern building with a red roof and a glass exterior. The building is"
+164,150003-003-V1_TIF.jpg,"{'description': (0x010E) ASCII=Memphis Views, Have More in Memphis, Stock, Mighty Lights, Memphis Bridge, HPV colors @ 236}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large body of water, likely a river, with a bridge spanning over it"
+165,00213077-009_TIF.jpg,"{'description': (0x010E) ASCII=00213077-009, 11-09-20, campus exteriors, campus details, fall, seasons, leaves, trees, lamp posts, street lights, flags, banners, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a red street light with a white banner hanging from it. The banner"
+166,00204680-019_TIF.jpg,"{'description': (0x010E) ASCII=00204680-019, 01-29-19, research instruments, vials, blue light, Macromolecular Synthesis, Liberty Blue Automated Microwave Peptide Synthesizer, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a blue refrigerator filled with a variety of plastic tubes, each"
+167,00208436-039_TIF.jpg,"{'description': (0x010E) ASCII=00208436-039, 07-31-19, staff - location portraits, two-shot, Hematology, African-American, female, (LR) Shelia Anderson, Jane Hankins MD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: Two women are standing in a hospital room, talking and smiling. They are both wearing dress"
+168,00211211-177_Allen_TIF.jpg,"{'description': (0x010E) ASCII=00211211-177, 02-19-20, staff - location portraits, triage room, Nursing, male, Stephen Allen, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A man is standing in front of a medical device, possibly a medical tablet, and is using"
+169,00214636-001-V1_TIF.jpg,"{'description': (0x010E) ASCII=00214636, campus aerial, campus exterior, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large gold dome with a golden roof, which is part of a building."
+170,00207528-019_TIF.jpg,"{'description': (0x010E) ASCII=00207528-019, 07-10-19, staff - location portraits, researchers, individuals, working, lab, Immunology, female, Shannon Boi PhD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A woman is wearing gloves and is examining a piece of paper. She is focused on"
+171,00207400-088_TIF.jpg,"{'description': (0x010E) ASCII=00207400-088, 06-21-19, Board of Governors, DEC, James Downing MD, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a man standing at a podium, holding a microphone and giving a speech."
+172,00211922-076_TIF.jpg,"{'description': (0x010E) ASCII=00211922-076, 04-06-20, events, staff - location, COVID-19, coronavirus, Unsung Heroes, Environmental Services, Facilities Operations and Maintenance, nitrogen, Tony Mays, @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: A person is wearing a blue and white lab coat, and they are holding a large container of"
+173,235506-096_TIF.jpg,"{'description': (0x010E) ASCII=An image from the Structural Biology booklet of the X-ray Crystallography Center.
+
+- Structural Biology Booklet - X-ray Crystallography Center at DTRC, Danny Thomas Research Center.
+
+- Camera Settings: ILCE-9M2, 90mm, ISO 1000, 1/160, f/5, Fri, 09-08-2023 at 11:03. v.04.2024 OP @ 224}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a close-up view of a series of small, round containers or vials"
+174,00216511-036-V1_TIF.jpg,"{'description': (0x010E) ASCII=00216511, campus exterior,I4ARC research tower, ARC @ 200}","USER:  
+ Generate a description. 
+ASSISTANT: The image features a large glass building with a red sign that says ""Inspiration."" The building"
